@@ -1,6 +1,6 @@
 # Python, Grade Calculator 
 
-#Students into their over grade for each subject to get their final grade.
+#Students input their overall grade for each subject to get their final grade.
 
 #Uses Tkinter GUI to create and generate a grading calculator.
 
